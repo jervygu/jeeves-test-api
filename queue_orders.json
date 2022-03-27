@@ -9,43 +9,58 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
+
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Filipino",
                     "qty": 3,
                     "sub_total": 420.75,
-                    "image": "https://www.roastycoffee.com/wp-content/uploads/filipino-coffee.jpg"
+                    "image": "https://www.roastycoffee.com/wp-content/uploads/filipino-coffee.jpg",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Italian",
                     "qty": 1,
                     "sub_total": 160.75,
-                    "image": "https://www.summerinitaly.com/images/photos/travel_guide/2387.jpg"
+                    "image": "https://www.summerinitaly.com/images/photos/travel_guide/2387.jpg",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "French",
                     "qty": 1,
                     "sub_total": 100.75,
-                    "image": "https://upgradedhome.com/wp-content/uploads/2021/07/shutterstock_725803207.jpg"
+                    "image": "https://upgradedhome.com/wp-content/uploads/2021/07/shutterstock_725803207.jpg",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Mocha",
                     "qty": 3,
                     "sub_total": 420.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fmocha.png?alt=media&token=1ff7e437-e949-40ed-8db5-8e20a5ab8bd5"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fmocha.png?alt=media&token=1ff7e437-e949-40ed-8db5-8e20a5ab8bd5",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -64,19 +79,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -95,19 +116,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -126,19 +153,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -157,19 +190,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -188,19 +227,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -219,19 +264,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -250,19 +301,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
@@ -281,19 +338,25 @@
                     "product_name": "Black",
                     "qty": 3,
                     "sub_total": 135.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fblack.png?alt=media&token=b758b284-cd91-4c52-bc57-05f6f278850a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Cortado",
                     "qty": 1,
                     "sub_total": 120.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Fcortado.png?alt=media&token=27ee450d-6e0c-4897-9e5b-89fddb950f83",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 },
                 {
                     "product_name": "Latte",
                     "qty": 1,
                     "sub_total": 130.75,
-                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a"
+                    "image": "https://firebasestorage.googleapis.com/v0/b/mb-philippines.appspot.com/o/CDI%2FJeeves%2Flatte.png?alt=media&token=c35a6b93-9ac8-4e98-b60a-e8de7376ba8a",
+                    "price": 100.25,
+                    "discounted_price": 75.99
                 }
             ],
             "cashier_info": "Maria Leonora Teresa",
